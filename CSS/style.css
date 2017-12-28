@@ -1,0 +1,9 @@
+body{width: 100%; height: 100vh; background: radial-gradient(closest-side at 60% 55%, #f30000, #c50000, #950101); overflow: hidden;}
+input{width: 600px; height: 40px; margin: 5% auto 0; display: block; font-size: 20px; box-shadow: 5px 5px 5px rgba(0,0,0,0.2);}
+#suggestion-box{margin: 0 auto; width: 600px; height: auto; background-color: #fff; padding-left: 0;}
+ul{list-style: none;}
+li{padding: 5px 20px;}
+li:hover{background-color: #ddd;}
+h2{margin-left: 10%; margin-top: 5%; width: 50%;}
+img{width: 30%; float: right; margin-right: 20%;}
+.result p{float: left; width: 30%; margin-left: 10%;}
